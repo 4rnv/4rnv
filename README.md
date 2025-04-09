@@ -1,4 +1,4 @@
- # About Me
+<!-- # About Me
 
  I am a student of Computer Engineering and software developer. Most of the stuff I make is built around full-stack web technologies. I am also deeply interested in Data Analytics and Machine Learning. Thank you for visiting my profile!
 
@@ -8,13 +8,23 @@
  - [SOS Terminal](https://github.com/4rnv/SOS-Terminal): A terminalesque startpage with a whole bunch of features and cool themes.
  - [QuotesAPI](https://github.com/4rnv/QuotesAPI): NodeAPI for fetching quotes.
  - [Kawaiify-Youtube](https://github.com/4rnv/Kawaiify-Youtube): Browser extension that adds anime characters to youtube thumbnails.
+-->
 
- # Tech Stack
- <p align="center">
- <img src="https://go-skill-icons.vercel.app/api/icons?i=c,python,flask,mysql,mongodb,js,html,css,scss,pug,nodejs,express,tailwind,aws,streamlit,vercel&perline=8&titles=true">
- </p>
+## Languages
+  <p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,go,c,html,css&perline=8&titles=true"
+  </p>
+ 
+## Frameworks and Libraries
+  <p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,flask,react,scss,pytorch,tensorflow,opencv,scikitlearn,streamlit&titles=true">
+  </p>
+  
+## Databases
+  <p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgres,mongoose&perline=8&titles=true">
+  </p>
 
- # Social
- <a href="https://www.linkedin.com/in/arnav-dandekar/">
-   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin">
- </a>
+## Stats
+![stats](https://grs-4rnv.vercel.app/api?username=4rnv&theme=shades-of-purple)<br>
+![langs](https://grs-4rnv.vercel.app/api/top-langs?username=4rnv&theme=shades-of-purple&langs_count=6)
