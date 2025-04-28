@@ -27,4 +27,4 @@
 
 ## Stats
 ![stats](https://grs-4rnv.vercel.app/api?username=4rnv&theme=shades-of-purple)<br>
-![langs](https://grs-4rnv.vercel.app/api/top-langs?username=4rnv&theme=shades-of-purple&langs_count=6)
+![langs](https://grs-4rnv.vercel.app/api/top-langs?username=4rnv&theme=shades-of-purple&langs_count=6&layout=compact)
